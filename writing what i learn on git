@@ -1,3 +1,4 @@
 github is a cloud base service which helps developers to well organise thier code. and track changes which are made over time.
 it permits many developers to work on thesame project. They can make changes to the project, by doing a pull request on the version they just worked on, once the pull request is 
 performed it helps different developpers working on thesame project to give or make comments on the change before the pull request is being merged on the main branche.
+i think it is a very good idea to create such a platform, to manage projects
